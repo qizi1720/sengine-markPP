@@ -165,15 +165,18 @@ main {
 }
 
 .button-keyword {
-  color: #ffd8dc;
-  background: rgba(190, 72, 86, 0.18);
-  border-color: rgba(255, 150, 162, 0.34);
+  min-height: 48px;
+  padding: 11px 20px;
+  color: #e3e5ff;
+  background: rgba(130, 143, 255, 0.18);
+  border-color: rgba(185, 189, 255, 0.44);
+  font-size: 16px;
 }
 
 .button-keyword:hover {
-  color: #fff0f2;
-  background: rgba(214, 91, 106, 0.28);
-  border-color: rgba(255, 169, 180, 0.52);
+  color: #ffffff;
+  background: rgba(130, 143, 255, 0.28);
+  border-color: rgba(205, 208, 255, 0.62);
 }
 
 .section {
